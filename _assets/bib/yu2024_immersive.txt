@@ -1,8 +1,0 @@
-@inproceedings{yu2024immersive,
-  title={An Immersive Method for Extracting Structural Information from Unorganized Point Clouds},
-  author={Yu, Zhongyuan and Lin, Tianfang and Gumhold, Stefan and McGinity, Matthew},
-  booktitle={2024 Nicograph International (NicoInt)},
-  pages={24--31},
-  year={2024},
-  organization={IEEE}
-}
