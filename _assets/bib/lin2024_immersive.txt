@@ -1,0 +1,9 @@
+@article{lin2024immersive,
+  title={An immersive labeling method for large point clouds},
+  author={Lin, Tianfang and Yu, Zhongyuan and McGinity, Matthew and Gumhold, Stefan},
+  journal={Computers \& Graphics},
+  volume={124},
+  pages={104101},
+  year={2024},
+  publisher={Elsevier}
+}
