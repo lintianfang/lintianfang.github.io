@@ -1,0 +1,8 @@
+  @inproceedings{lin2026pointshopvr,
+    title={PointShopVR: Immersive Authoring of Large Point Clouds in Virtual Reality},
+    author={Lin, Tianfang and McGinity, Matthew and Gumhold, Stefan},
+    booktitle={2026 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)},
+    pages={475--485},
+    year={2026},
+    organization={IEEE}
+  }
